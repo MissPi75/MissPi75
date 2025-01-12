@@ -8,10 +8,10 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Like SF and travelling
 
-##My tech stack
+## My tech stack
 
 
-##About my repo
+## About my repo
 
 All documents (test cases, bug reports etc.) available in two language versions: PL {zrobić to linkiem do katalogu PL} & EN {zrobić to linkiem do katalogu EN}
 

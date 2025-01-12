@@ -26,7 +26,7 @@ Po uzupełnieniu pól *login* i *hasło* poprawnymi danymi użytkownik zostaje z
 
 ### Id: PT5-2
 
-Tytuł: TTest logowania do systemu przy użyciu niepoprawnego loginu.
+Tytuł: Test logowania do systemu przy użyciu niepoprawnego loginu.
 
 Autor: Anna O-B
 
@@ -49,7 +49,7 @@ Po uzupełnieniu pola login niepoprawnymi danymi użytkownikowi zostaje wyświet
 
 ### Id: PT5-3
 
-Tytuł: TTest logowania do systemu przy użyciu niepoprawnego hasła.
+Tytuł: Test logowania do systemu przy użyciu niepoprawnego hasła.
 
 Autor: Anna O-B
 

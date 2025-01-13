@@ -42,7 +42,7 @@ Kroki:
 | Lp. | Krok/Akcja | Dane testowe | Rezultat oczekiwany |
 | --- | ---------- | ------------ | ------------------- |
 | 1.  | Otwarto stronę https://www.maxizoo.pl. | N/A | Strona główna wyświetla się poprawnie, u góry pośrodku belki górnej widoczne pole *szukaj*. |
-| 2. | Wpisano dane w pole *szukaj*. | 餌 | Po wpisaniu słowa 餌użytkownik jest przenoszony na stronę z wynikami wyszukiwania gdzie wyświetlany jest rezultat: 0- brak wyników wyszukiwania. |
+| 2. | Wpisano dane w pole *szukaj*. | 餌 | Po wpisaniu znaku 餌 użytkownik jest przenoszony na stronę z wynikami wyszukiwania gdzie wyświetlany jest rezultat: 0- brak wyników wyszukiwania. |
 
 Rezultat oczekiwany:
 Po wpisaniu znaku 餌 użytkownik jest przenoszony na stronę z wynikami wyszukiwania gdzie wyświetlany jest komunikat o braku wyników wyszukiwania.

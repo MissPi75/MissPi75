@@ -46,11 +46,11 @@ Kroki:
 
 | Lp. | Krok/Akcja | Dane testowe | Rezultat oczekiwany |
 | --- | ---------- | ------------ | ------------------- |
-| 1.  |  Wpisano dane w pole *City Name* | 東京 | Pole wyświetla komunikat o zbyt małej ilości znaków do wyświetlenia podpowiedzi. |
+| 1.  |  Wpisano dane w pole *City Name* | 東京 | Pole wyświetla komunikat o wpisaniu błędnych danych. |
 
 
 Rezultat oczekiwany:
-Pole wyświetla komunikat o zbyt małej ilości znaków do wyświetlenia podpowiedzi, jeżeli użytkownik wpisał mniej niż trzy znaki.
+Pole wyświetla komunikat o wpisaniu błędnych danych.
 
 ### Id: PT4c
 
@@ -75,4 +75,4 @@ Kroki:
 
 
 Rezultat oczekiwany:
-W przypadku wpisania przez użytkownika przynajmniej 3 znaków alfabetów innych niż łaciński lub przypadkowych ciągów znaków pole wyświetla komunikat pole wyświetla komunikat o braku (0) wyników wyszukiwania.
+W przypadku wpisania przez użytkownika przynajmniej 3 znaków alfabetów innych niż łaciński lub przypadkowych ciągów znaków pole wyświetla komunikat o braku (0) wyników wyszukiwania.

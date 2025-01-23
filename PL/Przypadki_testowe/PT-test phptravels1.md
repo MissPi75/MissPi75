@@ -20,7 +20,3 @@ Kroki:
 | Lp. | Krok/Akcja | Dane testowe | Rezultat oczekiwany |
 | --- | ---------- | ------------ | ------------------- |
 | 1.  | Wybrano zakładkę *hotels* | N/A |  Na zakładce hotels wyświetlają się pola wyboru *City Name*, *Checkin*, *Checkout*, *Travellers* oraz przycisk *search*. |
-
-
-Rezultat oczekiwany:
-Na zakładce hotels wyświetlają się pola wyboru *City Name*, *Checkin*, *Checkout*, *Travellers* oraz przycisk *search*.

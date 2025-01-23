@@ -17,7 +17,3 @@ Kroki:
 | Lp. | Krok/Akcja | Dane testowe | Rezultat oczekiwany |
 | --- | ---------- | ------------ | ------------------- |
 | 1.  | Otwarto stronę https://www.maxizoo.pl | N/A |  Na górnym menu widoczne są przyciski *zarejestruj się teraz*, *newsletter*, *znajdź sklep Maxi Zoo*, *pomoc* i *punkty payback*. Wyświetla się komunikat akceptacji cookies. | 2. | Akceptacja cookies | N/A | Po kliknięciu komunikat akceptacji cookies znika. Strona wyświetla się prawidłowo. |
-
-
-Rezultat oczekiwany:
-W górnym menu na stronie głównej sklepu MaxiZoo, po akceptaji cookies są widoczne przyciski *zarejestruj się teraz*, *newsletter*, *znajdź sklep Maxi Zoo*, *pomoc* i *punkty payback*.

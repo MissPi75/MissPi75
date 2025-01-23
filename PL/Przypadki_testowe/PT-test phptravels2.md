@@ -22,11 +22,6 @@ Kroki:
 | --- | ---------- | ------------ | ------------------- |
 | 1.  |  Wpisano dane w pole *City Name* | Poz| Pole wyświetla podpowiedź nazw miast zawierających ciąg liter *Poz* |
 
-
-Rezultat oczekiwany:
-Pole wyświetla podpowiedź nazw miast zawierających wpisany przez użytkownika ciąg 3 liter.
-
-
 ### Id: PT4b
 
 Tytuł: Zakładka *hotels* –  test pola wyboru *City Name*: czy przyjmuje tylko litery, wyświetla podpowiedzi po wpisaniu 3 liter
@@ -48,10 +43,6 @@ Kroki:
 | --- | ---------- | ------------ | ------------------- |
 | 1.  |  Wpisano dane w pole *City Name* | 東京 | Pole wyświetla komunikat o wpisaniu błędnych danych. |
 
-
-Rezultat oczekiwany:
-Pole wyświetla komunikat o wpisaniu błędnych danych.
-
 ### Id: PT4c
 
 Tytuł: Zakładka *hotels* –  test pola wyboru *City Name*: czy przyjmuje tylko litery alfabetu łacińskiego
@@ -72,7 +63,3 @@ Kroki:
 | Lp. | Krok/Akcja | Dane testowe | Rezultat oczekiwany |
 | --- | ---------- | ------------ | ------------------- |
 | 1.  |  Wpisano dane w pole *City Name* | $5@!, 名古屋, جلال‌آباد | Pole wyświetla komunikat o braku (0) wyników wyszukiwania. |
-
-
-Rezultat oczekiwany:
-W przypadku wpisania przez użytkownika przynajmniej 3 znaków alfabetów innych niż łaciński lub przypadkowych ciągów znaków pole wyświetla komunikat o braku (0) wyników wyszukiwania.

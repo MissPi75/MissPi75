@@ -20,9 +20,6 @@ Kroki:
 | --- | ---------- | ------------ | ------------------- |
 | 1.  | Otwarto stronę https://www.maxizoo.pl. | N/A | Na stronie widoczny przycisk logowania. | 
 
-Rezultat oczekiwany:
-Po wpisaniu adresu https://www.maxizoo.pl prawidłowo wyświetla się strona główna sklepu MaxiZoo, na której znajduje się przycisk logowania do systemu.
-
 ### Id: PT4-2
 
 Tytuł: Test czy przycisk logowania przenosi użytkownika do strony logowania.
@@ -41,6 +38,3 @@ Kroki:
 | Lp. | Krok/Akcja | Dane testowe | Rezultat oczekiwany |
 | --- | ---------- | ------------ | ------------------- |
 | 1.  | Otwarto stronę https://www.maxizoo.pl. | N/A | Strona główna wyświetla się poprawnie, widoczny przycisk logowania. | 2. | Kliknięto przycisk logowania | N/A | Strona logowania otwiera się poprawnie. |
-
-Rezultat oczekiwany:
-Po kliknięciu przycisku logowania użytkownik zostaje przeniesiony na stronę logowania.

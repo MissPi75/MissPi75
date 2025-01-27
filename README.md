@@ -8,13 +8,9 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Like SF and travelling
 
-## My tech stack
-
-
 ## About my repo
 
-All documents (test cases, bug reports etc.) available in two language versions: PL {zrobić to linkiem do katalogu PL} & EN {zrobić to linkiem do katalogu EN}
-
+For the time being, all documents are available only in Polish. I will gradually translate them into English. 
 
 <!---
 MissPi75/MissPi75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,13 +8,11 @@ Warunek wstępny: uruchomiona przeglądarka Opera One
 
 Cel: Sprawdzenie wyświetlania strony głównej.
 
-Wymaganie: [1](../Przypadki_testowe/PT-test mzoo1.md#wymaganie-funkcjonalne-1)
+Wymaganie: [1](../Przypadki_testowe/PT-test%20mzoo1.md#wymaganie-funkcjonalne-1)
 
 Autor: Anna O-B
 
 
 | Lp. | Priorytet | Numer przypadku testowego|
 | --- | ---------- | ------------ |
-| 1.  | 5 | [PT1](../Przypadki_testowe/PT-test mzoo1.md#id-pt1) | 
-
-
+| 1.  | 5 | [PT1](../Przypadki_testowe/PT-test%20mzoo1.md#id-pt1) | 

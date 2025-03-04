@@ -8,13 +8,13 @@ Warunek wstępny: uruchomiona przeglądarka Opera One
 
 Cel: Sprawdzenie działania przycisku znajdź sklep stacjonarny na stronie głównej aplikacji MaxiZoo.
 
-Wymaganie: [7](../Przypadki_testowe/PT-test mzoo7.md#wymaganie-funkcjonalne-7)
+Wymaganie: [7](../Przypadki_testowe/PT-test%20mzoo7.md#wymaganie-funkcjonalne-7)
 
 Autor: Anna O-B
 
 
 | Lp. | Priorytet | Numer przypadku testowego|
 | --- | ---------- | ------------ |
-| 1.  | 2 | [PT7-1](../Przypadki_testowe/PT-test mzoo7.md#id-pt7-1) | 
-| 2.  | 2 | [PT7-2](../Przypadki_testowe/PT-test mzoo7.md#id-pt7-2) |
-| 3.  | 2 | [PT7-3](../Przypadki_testowe/PT-test mzoo7.md#id-pt7-3) | 
+| 1.  | 2 | [PT7-1](../Przypadki_testowe/PT-test%20mzoo7.md#id-pt7-1) | 
+| 2.  | 2 | [PT7-2](../Przypadki_testowe/PT-test%20mzoo7.md#id-pt7-2) |
+| 3.  | 2 | [PT7-3](../Przypadki_testowe/PT-test%20mzoo7.md#id-pt7-3) | 

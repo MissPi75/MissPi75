@@ -8,11 +8,11 @@ Warunek wstępny: uruchomiona przeglądarka Opera One
 
 Cel: Sprawdzenie wyświetlania przycisków górnego menu strony głównej aplikacji MaxiZoo.
 
-Wymaganie: [2](../Przypadki_testowe/PT-test mzoo2.md#wymaganie-funkcjonalne-2)
+Wymaganie: [2](../Przypadki_testowe/PT-test%20mzoo2.md#wymaganie-funkcjonalne-2)
 
 Autor: Anna O-B
 
 
 | Lp. | Priorytet | Numer przypadku testowego|
 | --- | ---------- | ------------ |
-| 1.  | 3 | [PT2](../Przypadki_testowe/PT-test mzoo2.md#id-pt2) | 
+| 1.  | 3 | [PT2](../Przypadki_testowe/PT-test%20mzoo2.md#id-pt2) | 

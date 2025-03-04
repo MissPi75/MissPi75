@@ -5,7 +5,7 @@ Autor: Anna O-B
 Środowisko:
 - Bodhi Linux (Ubuntu 20.04.6 LTS).
 - Chromium wersja 121.0.6167.160 (Oficjalna wersja) for Bodhi Linux (64-bitowa).
-- łącze internetowe Starlink 150Mb.
+- Łącze internetowe Starlink 150Mb.
 
 Warunki wstępne:
 - Użytkownik ma uruchomioną przeglądarkę. 

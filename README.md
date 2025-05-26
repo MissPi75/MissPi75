@@ -10,7 +10,7 @@
 
 ## About my repo
 
-For the time being, all documents are available only in Polish. I will gradually translate them into English. 
+For the time being, all documents are available only in Polish. 
 
 <!---
 MissPi75/MissPi75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

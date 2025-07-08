@@ -12,9 +12,11 @@
 
 For the time being, all documents are available only in Polish.
 
+- AK1944: checklists, bug reports and screenshots (Google Sheets links). Test documentation of AK1944 website resdesign project. 3-tester-team.
+
+- AIDEAS: presentation and screen capture of AI agentic flow created by Team #175 "DrużynA" during AIDEAS AI course. POC of network of AI Agents (in dedicated no-code platform Generator GPT) in order to optimize backend processes of an FMCG company. Additionally, a link to video on YouTube where one of our team members talks about the programme.
+
 - DareIT-FC: test documentation created during my software tester course at Future Collars crosschecked with my mentor during DareIT mentoring programme.
-- AIDEAS: presentation and screen capture of AI agentic flow created by Team #175 "Drużyna" during AIDEAS AI course. POC of network of AI Agents (in dedicated no-code platform Generator GPT) in order to optimize backend processes of a FMCG comany. Additionally, a link to video on YouTube where one of our team members talks about the programme.
-- AK1944: checklists, bug reports and screenshots (Google Sheets links). Test documentation of AK1944 website resdesign project. 3-tester-team. 
 
 
 <!---

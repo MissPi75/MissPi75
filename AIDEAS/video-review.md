@@ -1,0 +1,1 @@
+AIDEAS recenzja Tomka z naszego zespołu #175 DrużynA na [YouTube](https://youtu.be/-033K_Byhp4?feature=shared).
